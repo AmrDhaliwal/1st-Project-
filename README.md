@@ -1,5 +1,5 @@
-# 1st-Project-
-My 1st project to becoming a Data Scientist
-Built a program using Python
-A Rock, Paper, Scissors game 
-Great way to learn if/else/elif statements
+# -Project-
+This repository contains general projects I have completed.
+When I say general I mean projects I have been doing for the 100 days of code challenge.
+The projects increase in diffiulty day after day and all projects are made
+using Python.
